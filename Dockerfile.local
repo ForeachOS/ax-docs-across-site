@@ -1,0 +1,2 @@
+FROM antora/antora
+RUN yarn global add @antora/site-publisher

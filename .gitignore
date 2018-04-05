@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+# author workspace
+.DS_Store
+workspace
+build

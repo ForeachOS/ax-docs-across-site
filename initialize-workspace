@@ -1,0 +1,3 @@
+git clone https://github.com/ForeachOS/ax-docs-across.git workspace/ax-docs-across
+git clone https://github.com/ForeachOS/ax-docs-platform.git workspace/ax-docs-platform
+git clone https://github.com/ForeachOS/ax-docs-dynamic-forms-module.git workspace/ax-docs-dynamic-forms-module

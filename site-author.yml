@@ -1,0 +1,22 @@
+# Author workspace
+site:
+  title: Across
+  start_page: across::index
+content:
+  sources:
+  - url: ./workspace/ax-docs-across
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-platform
+    start_path: docs/guides
+    branches: HEAD
+  - url: ./workspace/ax-docs-platform
+    start_path: docs/migration
+    branches: HEAD
+  - url: ./workspace/ax-docs-dynamic-forms-module
+    start_path: docs
+    branches: HEAD
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

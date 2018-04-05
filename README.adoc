@@ -1,0 +1,39 @@
+= Across Documentation Playbook
+
+This repository contains the https://antora.org[Antora playbook] for the https://across.foreach.be[Across site] documentation.
+
+== Building the documentation site
+
+Make sure you have installed Antora per the https://docs.antora.org/antora/1.0/install/install-antora/[installation instructions].
+
+Build the documentation site:
+
+ $ antora site.yml
+
+If you want to update the site documentation, you usually want to specify `--pull` as CLI argument.
+
+ $ antora site.yml --pull
+
+Open the site in your local browser.
+Depending on your system you can use the `open` command.
+
+ $ open build/site/index.html
+
+
+== Creating the author workspace
+
+For local development and site building you can checkout all related documentation repositories and use the author playbook.
+
+Checkout the different documentation repositories in the `workspace` folder.
+
+ $ ./initialize-workspace
+
+This will clone each documentation repository separately in its own subdirectory.
+
+Build the site using the author playbook, this will use the local checked out version of the repository.
+
+ $ antora site-author.yml
+
+When using the local repositories, specifying `--pull` is not necessary for updating.
+
+

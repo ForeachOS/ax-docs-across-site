@@ -4,7 +4,7 @@ site:
 content:
   sources:
   - url: https://github.com/ForeachOS/ax-docs-across.git
-    branches: antora
+    branches: develop
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-platform.git
     branches: develop
@@ -13,6 +13,24 @@ content:
     branches: develop
     start_path: docs/migration
   - url: https://github.com/ForeachOS/ax-docs-dynamic-forms-module.git
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-admin-web-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-bootstrap-ui-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-entity-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-ldap-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-spring-security-acl-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-web-cms-module.git
+    branches: develop
     start_path: docs
 ui:
   bundle:

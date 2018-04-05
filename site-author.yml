@@ -16,6 +16,24 @@ content:
   - url: ./workspace/ax-docs-dynamic-forms-module
     start_path: docs
     branches: HEAD
+  - url: ./workspace/ax-docs-admin-web-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-bootstrap-ui-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-entity-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-ldap-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-spring-security-acl-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-web-cms-module
+    start_path: docs
+    branches: HEAD
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable

@@ -7,3 +7,8 @@ git clone https://github.com/ForeachOS/ax-docs-bootstrap-ui-module.git workspace
 git clone https://github.com/ForeachOS/ax-docs-entity-module.git workspace/ax-docs-entity-module
 git clone https://github.com/ForeachOS/ax-docs-web-cms-module.git workspace/ax-docs-web-cms-module
 git clone https://github.com/ForeachOS/ax-docs-spring-security-acl-module.git workspace/ax-docs-spring-security-acl-module
+git clone https://github.com/ForeachOS/ax-docs-user-module.git workspace/ax-docs-user-module
+git clone https://github.com/ForeachOS/ax-docs-spring-security-module.git workspace/ax-docs-spring-security-module
+git clone https://github.com/ForeachOS/ax-docs-oauth2-module.git workspace/ax-docs-oauth2-module
+git clone https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git workspace/ax-docs-hibernate-jpa-module
+

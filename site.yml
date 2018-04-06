@@ -32,6 +32,18 @@ content:
   - url: https://github.com/ForeachOS/ax-docs-web-cms-module.git
     branches: develop
     start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-spring-security-module.git
+    branches: master
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-oauth2-module.git
+    branches: master
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-user-module.git
+    branches: master
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git
+    branches: master
+    start_path: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable

@@ -28,10 +28,22 @@ content:
   - url: ./workspace/ax-docs-ldap-module
     start_path: docs
     branches: HEAD
+  - url: ./workspace/ax-docs-spring-security-module
+    start_path: docs
+    branches: HEAD
   - url: ./workspace/ax-docs-spring-security-acl-module
     start_path: docs
     branches: HEAD
   - url: ./workspace/ax-docs-web-cms-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-user-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-hibernate-jpa-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-oauth2-module
     start_path: docs
     branches: HEAD
 ui:

@@ -1,3 +1,3 @@
 FROM antora/antora
 RUN yarn add @antora/site-publisher
-ENTRYPOINT ["/antora/generate.sh"]
+ENV HOME /antora

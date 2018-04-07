@@ -46,8 +46,7 @@ content:
     start_path: docs
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
-    snapshot: true
+    url: ./ui-bundle.zip
 output:
   destinations:
   - provider: archive

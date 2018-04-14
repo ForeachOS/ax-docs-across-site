@@ -11,4 +11,5 @@ git clone https://github.com/ForeachOS/ax-docs-user-module.git workspace/ax-docs
 git clone https://github.com/ForeachOS/ax-docs-spring-security-module.git workspace/ax-docs-spring-security-module
 git clone https://github.com/ForeachOS/ax-docs-oauth2-module.git workspace/ax-docs-oauth2-module
 git clone https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git workspace/ax-docs-hibernate-jpa-module
+git clone https://github.com/ForeachOS/ax-docs-across-autoconfigure.git workspace/ax-docs-across-autoconfigure
 

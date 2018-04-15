@@ -46,6 +46,9 @@ content:
   - url: ./workspace/ax-docs-oauth2-module
     start_path: docs
     branches: HEAD
+  - url: ./workspace/ax-docs-across-autoconfigure
+    start_path: docs
+    branches: HEAD
 ui:
   bundle:
     url: ./ui-bundle.zip

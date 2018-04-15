@@ -44,6 +44,9 @@ content:
   - url: https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git
     branches: master
     start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-across-autoconfigure.git
+    branches: master
+    start_path: docs
 ui:
   bundle:
     url: ./ui-bundle.zip

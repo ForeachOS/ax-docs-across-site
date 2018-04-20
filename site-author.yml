@@ -7,48 +7,48 @@ content:
   - url: ./workspace/ax-docs-across
     start_path: docs
     branches: HEAD
-  - url: ./workspace/ax-docs-platform
-    start_path: docs/guides
-    branches: HEAD
-  - url: ./workspace/ax-docs-platform
-    start_path: docs/migration
-    branches: HEAD
-  - url: ./workspace/ax-docs-dynamic-forms-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-admin-web-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-bootstrap-ui-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-entity-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-ldap-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-spring-security-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-spring-security-acl-module
-    start_path: docs
-    branches: HEAD
+#  - url: ./workspace/ax-docs-platform
+#    start_path: docs/guides
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-platform
+#    start_path: docs/migration
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-dynamic-forms-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-admin-web-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-bootstrap-ui-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-entity-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-ldap-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-spring-security-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-spring-security-acl-module
+#    start_path: docs
+#    branches: HEAD
   - url: ./workspace/ax-docs-web-cms-module
     start_path: docs
     branches: HEAD
-  - url: ./workspace/ax-docs-user-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-hibernate-jpa-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-oauth2-module
-    start_path: docs
-    branches: HEAD
-  - url: ./workspace/ax-docs-across-autoconfigure
-    start_path: docs
-    branches: HEAD
+#  - url: ./workspace/ax-docs-user-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-hibernate-jpa-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-oauth2-module
+#    start_path: docs
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-across-autoconfigure
+#    start_path: docs
+#    branches: HEAD
 ui:
   bundle:
     url: ./ui-bundle.zip

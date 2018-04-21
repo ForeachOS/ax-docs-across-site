@@ -54,3 +54,7 @@ output:
   destinations:
   - provider: archive
     path: build/docs-across-site.zip
+asciidoc:
+  attributes:
+    across-site: https://across.foreach.be
+    across-modules: https://across.foreach.be/modules

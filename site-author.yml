@@ -52,3 +52,8 @@ content:
 ui:
   bundle:
     url: ./ui-bundle.zip
+
+asciidoc:
+  attributes:
+    spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/"
+    ax-initializr-url: "http://start-across.foreach.be/"

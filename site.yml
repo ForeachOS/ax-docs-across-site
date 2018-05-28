@@ -56,5 +56,5 @@ output:
     path: build/docs-across-site.zip
 asciidoc:
   attributes:
-    across-site: https://across.foreach.be
-    across-modules: https://across.foreach.be/modules
+    spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/"
+    ax-initializr-url: "http://start-across.foreach.be/"

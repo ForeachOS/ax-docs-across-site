@@ -56,4 +56,5 @@ ui:
 asciidoc:
   attributes:
     spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/"
+    spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.17.RELEASE/spring-framework-reference/htmlsingle/"
     ax-initializr-url: "http://start-across.foreach.be/"

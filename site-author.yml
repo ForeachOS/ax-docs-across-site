@@ -75,6 +75,7 @@ content:
     start_path: docs
 ui:
   bundle:
+#    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     url: ./ui-bundle.zip
 
 asciidoc:
@@ -82,3 +83,13 @@ asciidoc:
     spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/"
     spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.17.RELEASE/spring-framework-reference/htmlsingle/"
     ax-initializr-url: "http://start-across.foreach.be/"
+    url-AcrossHibernateModule: "https://across.foreach.be/modules/AcrossHibernateModule"
+    url-AdminWebModule: "https://across.foreach.be/modules/AdminWebModule"
+    url-ApplicationInfoModule: "https://across.foreach.be/modules/ApplicationInfoModule"
+    url-BootstrapUiModule: "https://across.foreach.be/modules/BootstrapUiModule"
+    url-DebugWebModule: "https://across.foreach.be/modules/DebugWebModule"
+    url-EntityModule: "https://across.foreach.be/modules/EntityModule"
+    url-OAuth2Module: "https://across.foreach.be/modules/OAuth2Module"
+    url-SpringSecurityModule: "https://across.foreach.be/modules/SpringSecurityModule"
+    url-SpringSecurityAclModule: "https://across.foreach.be/modules/SpringSecurityAclModule"
+    url-UserModule: "https://across.foreach.be/modules/UserModule"

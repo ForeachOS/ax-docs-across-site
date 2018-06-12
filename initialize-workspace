@@ -12,5 +12,13 @@ git clone https://github.com/ForeachOS/ax-docs-spring-security-module.git worksp
 git clone https://github.com/ForeachOS/ax-docs-oauth2-module.git workspace/ax-docs-oauth2-module
 git clone https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git workspace/ax-docs-hibernate-jpa-module
 git clone https://github.com/ForeachOS/ax-docs-across-autoconfigure.git workspace/ax-docs-across-autoconfigure
+git clone https://github.com/ForeachOS/ax-docs-debug-web-module.git workspace/ax-docs-debug-web-module
+git clone https://github.com/ForeachOS/ax-docs-application-info-module.git workspace/ax-docs-application-info-module
+git clone https://github.com/ForeachOS/ax-docs-file-manager-module.git workspace/ax-docs-file-manager-module
+git clone https://github.com/ForeachOS/ax-docs-logging-module.git workspace/ax-docs-logging-module
+git clone https://github.com/ForeachOS/ax-docs-ehcache-module.git workspace/ax-docs-ehcache-module
+git clone https://github.com/ForeachOS/ax-docs-properties-module.git workspace/ax-docs-properties-module
+git clone https://github.com/ForeachOS/ax-docs-spring-mobile-module.git workspace/ax-docs-spring-mobile-module
+git clone https://github.com/ForeachOS/ax-docs-spring-batch-module.git workspace/ax-docs-spring-batch-module
 for dir in workspace/*; do (cd "$dir" && git pull --rebase && git checkout -f develop); done
 

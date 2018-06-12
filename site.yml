@@ -47,6 +47,30 @@ content:
   - url: https://github.com/ForeachOS/ax-docs-across-autoconfigure.git
     branches: master
     start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-debug-web-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-application-info-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-file-manager-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-logging-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-ehcache-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-properties-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-spring-mobile-module.git
+    branches: develop
+    start_path: docs
+  - url: https://github.com/ForeachOS/ax-docs-spring-batch-module.git
+    branches: develop
+    start_path: docs
 ui:
   bundle:
     url: ./ui-bundle.zip

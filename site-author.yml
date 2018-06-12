@@ -49,6 +49,30 @@ content:
   - url: ./workspace/ax-docs-across-autoconfigure
     start_path: docs
     branches: HEAD
+  - url: ./workspace/ax-docs-debug-web-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-application-info-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-file-manager-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-logging-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-ehcache-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-properties-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-spring-mobile-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-spring-batch-module
+    branches: HEAD
+    start_path: docs
 ui:
   bundle:
     url: ./ui-bundle.zip

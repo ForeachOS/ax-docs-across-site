@@ -10,7 +10,7 @@ content:
     branches: develop
     start_path: docs/guides
   - url: https://github.com/ForeachOS/ax-docs-platform.git
-    branches: develop
+    branches: [develop,develop-*]
     start_path: docs/migration
   - url: https://github.com/ForeachOS/ax-docs-dynamic-forms-module.git
     start_path: docs

@@ -80,8 +80,8 @@ ui:
 
 asciidoc:
   attributes:
-    spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/"
-    spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.17.RELEASE/spring-framework-reference/htmlsingle/"
+    spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.14.RELEASE/reference/htmlsingle/"
+    spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.18.RELEASE/spring-framework-reference/htmlsingle/"
     ax-initializr-url: "http://start-across.foreach.be/"
     url-AcrossHibernateModule: "https://across.foreach.be/modules/AcrossHibernateModule"
     url-AdminWebModule: "https://across.foreach.be/modules/AdminWebModule"

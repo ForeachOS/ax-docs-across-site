@@ -20,5 +20,5 @@ git clone https://github.com/ForeachOS/ax-docs-ehcache-module.git workspace/ax-d
 git clone https://github.com/ForeachOS/ax-docs-properties-module.git workspace/ax-docs-properties-module
 git clone https://github.com/ForeachOS/ax-docs-spring-mobile-module.git workspace/ax-docs-spring-mobile-module
 git clone https://github.com/ForeachOS/ax-docs-spring-batch-module.git workspace/ax-docs-spring-batch-module
-for dir in workspace/*; do (cd "$dir" && git pull --rebase && git checkout -f develop); done
+for dir in workspace/*; do (cd "$dir" && git pull --rebase); done
 

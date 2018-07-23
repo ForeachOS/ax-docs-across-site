@@ -7,7 +7,7 @@ content:
     branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-platform.git
-    branches: [master,develop,develop-*]
+    branches: [master]
     start_path: docs/guides
   - url: https://github.com/ForeachOS/ax-docs-platform.git
     branches: [master]

@@ -94,3 +94,4 @@ asciidoc:
     url-SpringSecurityModule: "https://across.foreach.be/modules/SpringSecurityModule"
     url-SpringSecurityAclModule: "https://across.foreach.be/modules/SpringSecurityAclModule"
     url-UserModule: "https://across.foreach.be/modules/UserModule"
+    url-WebCmsModule: "https://across.foreach.be/modules/WebCmsModule"

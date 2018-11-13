@@ -7,15 +7,15 @@ content:
   - url: ./workspace/ax-docs-across
     start_path: docs
     branches: HEAD
-#  - url: ./workspace/ax-docs-platform
-#    start_path: docs/guides
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-platform
-#    start_path: docs/migration
-#    branches: HEAD
-  - url: ./workspace/ax-docs-dynamic-forms-module
-    start_path: docs
+  - url: ./workspace/ax-docs-platform
+    start_path: docs/guides
     branches: HEAD
+  - url: ./workspace/ax-docs-platform
+    start_path: docs/migration
+    branches: HEAD
+#  - url: ./workspace/ax-docs-dynamic-forms-module
+#    start_path: docs
+#    branches: HEAD
 #  - url: ./workspace/ax-docs-admin-web-module
 #    start_path: docs
 #    branches: HEAD
@@ -55,9 +55,9 @@ content:
 #  - url: ./workspace/ax-docs-application-info-module
 #    branches: HEAD
 #    start_path: docs
-#  - url: ./workspace/ax-docs-file-manager-module
-#    branches: HEAD
-#    start_path: docs
+  - url: ./workspace/ax-docs-file-manager-module
+    branches: HEAD
+    start_path: docs
 #  - url: ./workspace/ax-docs-logging-module
 #    branches: HEAD
 #    start_path: docs

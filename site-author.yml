@@ -19,9 +19,9 @@ content:
 #  - url: ./workspace/ax-docs-admin-web-module
 #    start_path: docs
 #    branches: HEAD
-#  - url: ./workspace/ax-docs-bootstrap-ui-module
-#    start_path: docs
-#    branches: HEAD
+  - url: ./workspace/ax-docs-bootstrap-ui-module
+    start_path: docs
+    branches: HEAD
 #  - url: ./workspace/ax-docs-entity-module
 #    start_path: docs
 #    branches: HEAD

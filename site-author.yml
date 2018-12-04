@@ -91,7 +91,7 @@ asciidoc:
     url-EntityModule: "https://across.foreach.be/modules/EntityModule"
     url-OAuth2Module: "https://across.foreach.be/modules/OAuth2Module"
     url-SpringSecurityModule: "https://across.foreach.be/modules/SpringSecurityModule"
+    url-WebCmsModule: "https://across.foreach.be/modules/WebCmsModule"
     url-SpringSecurityAclModule: "https://across.foreach.be/modules/SpringSecurityAclModule"
     url-UserModule: "https://across.foreach.be/modules/UserModule"
-    url-WebCmsModule: "https://across.foreach.be/modules/WebCmsModule"
     url-FileManagerModule: "https://across.foreach.be/modules/FileManagerModule"

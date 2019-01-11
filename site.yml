@@ -1,6 +1,6 @@
 site:
   title: Across
-  start_page: 2.1.2@across::index
+  start_page: 2.1.3@across::index
 content:
   sources:
   - url: https://github.com/ForeachOS/ax-docs-across.git

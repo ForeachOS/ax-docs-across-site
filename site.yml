@@ -96,3 +96,6 @@ asciidoc:
     url-UserModule: "https://across.foreach.be/modules/UserModule"
     url-WebCmsModule: "https://across.foreach.be/modules/WebCmsModule"
     url-FileManagerModule: "https://across.foreach.be/modules/FileManagerModule"
+    tabs: tabs
+  extensions:
+    - ./lib/tabs-block.js

@@ -7,24 +7,21 @@ content:
   - url: ./workspace/ax-docs-across
     start_path: docs
     branches: HEAD
-  - url: ./workspace/ax-docs-platform
-    start_path: docs/guides
-    branches: HEAD
-  - url: ./workspace/ax-docs-platform
-    start_path: docs/migration
-    branches: HEAD
+#  - url: ./workspace/ax-docs-platform
+#    start_path: docs/guides
+#    branches: HEAD
+#  - url: ./workspace/ax-docs-platform
+#    start_path: docs/migration
+#    branches: HEAD
 #  - url: ./workspace/ax-docs-dynamic-forms-module
 #    start_path: docs
 #    branches: HEAD
-#  - url: ./workspace/ax-docs-admin-web-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-admin-web-module
-#    start_path: docs
-#    branches: HEAD
-  - url: ./workspace/ax-docs-bootstrap-ui-module
+  - url: ./workspace/ax-docs-admin-web-module
     start_path: docs
     branches: HEAD
+#  - url: ./workspace/ax-docs-bootstrap-ui-module
+#    start_path: docs
+#    branches: HEAD
 #  - url: ./workspace/ax-docs-entity-module
 #    start_path: docs
 #    branches: HEAD
@@ -97,6 +94,7 @@ asciidoc:
     url-SpringSecurityAclModule: "https://across.foreach.be/modules/SpringSecurityAclModule"
     url-UserModule: "https://across.foreach.be/modules/UserModule"
     url-WebCmsModule: "https://across.foreach.be/modules/WebCmsModule"
+    url-FileManagerModule: "https://across.foreach.be/modules/FileManagerModule"
     tabs: tabs
   extensions:
     - ./lib/tabs-block.js

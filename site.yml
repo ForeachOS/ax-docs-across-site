@@ -85,6 +85,7 @@ asciidoc:
     spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.21.RELEASE/spring-framework-reference/htmlsingle/"
     ax-initializr-url: "https://start.across.dev/"
     url-AcrossHibernateModule: "https://across.dev/modules/AcrossHibernateModule"
+    url-PropertiesModule: "https://across.dev/modules/PropertiesModule"
     url-AdminWebModule: "https://across.dev/modules/AdminWebModule"
     url-ApplicationInfoModule: "https://across.dev/modules/ApplicationInfoModule"
     url-BootstrapUiModule: "https://across.dev/modules/BootstrapUiModule"

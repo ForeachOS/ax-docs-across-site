@@ -84,6 +84,7 @@ asciidoc:
     spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.18.RELEASE/spring-framework-reference/htmlsingle/"
     ax-initializr-url: "http://start-across.foreach.be/"
     url-AcrossHibernateModule: "https://across.foreach.be/modules/AcrossHibernateModule"
+    url-PropertiesModule: "https://across.foreach.be/modules/PropertiesModule"
     url-AdminWebModule: "https://across.foreach.be/modules/AdminWebModule"
     url-ApplicationInfoModule: "https://across.foreach.be/modules/ApplicationInfoModule"
     url-BootstrapUiModule: "https://across.foreach.be/modules/BootstrapUiModule"

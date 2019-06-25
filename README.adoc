@@ -34,6 +34,6 @@ Build the site using the author playbook, this will use the local checked out ve
 
  $ antora site-author.yml
 
-When using the local repositories, specifying `--pull` is not necessary for updating.
+When using the local repositories, specifying `--pull` is *not* necessary for updating.
 
 

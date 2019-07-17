@@ -13,15 +13,15 @@ content:
 #  - url: ./workspace/ax-docs-platform
 #    start_path: docs/migration
 #    branches: HEAD
-#  - url: ./workspace/ax-docs-dynamic-forms-module
-#    start_path: docs
-#    branches: HEAD
+  - url: ./workspace/ax-docs-dynamic-forms-module
+    start_path: docs
+    branches: HEAD
   - url: ./workspace/ax-docs-admin-web-module
     start_path: docs
     branches: HEAD
-#  - url: ./workspace/ax-docs-bootstrap-ui-module
-#    start_path: docs
-#    branches: HEAD
+  - url: ./workspace/ax-docs-bootstrap-ui-module
+    start_path: docs
+    branches: HEAD
   - url: ./workspace/ax-docs-entity-module
     start_path: docs
     branches: HEAD
@@ -80,22 +80,22 @@ ui:
 
 asciidoc:
   attributes:
-    spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.14.RELEASE/reference/htmlsingle/"
-    spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.18.RELEASE/spring-framework-reference/htmlsingle/"
-    ax-initializr-url: "http://start-across.foreach.be/"
-    url-AcrossHibernateModule: "https://across.foreach.be/modules/AcrossHibernateModule"
-    url-PropertiesModule: "https://across.foreach.be/modules/PropertiesModule"
-    url-AdminWebModule: "https://across.foreach.be/modules/AdminWebModule"
-    url-ApplicationInfoModule: "https://across.foreach.be/modules/ApplicationInfoModule"
-    url-BootstrapUiModule: "https://across.foreach.be/modules/BootstrapUiModule"
-    url-DebugWebModule: "https://across.foreach.be/modules/DebugWebModule"
-    url-EntityModule: "https://across.foreach.be/modules/EntityModule"
-    url-OAuth2Module: "https://across.foreach.be/modules/OAuth2Module"
-    url-SpringSecurityModule: "https://across.foreach.be/modules/SpringSecurityModule"
-    url-SpringSecurityAclModule: "https://across.foreach.be/modules/SpringSecurityAclModule"
-    url-UserModule: "https://across.foreach.be/modules/UserModule"
-    url-WebCmsModule: "https://across.foreach.be/modules/WebCmsModule"
-    url-FileManagerModule: "https://across.foreach.be/modules/FileManagerModule"
+    spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.20.RELEASE/reference/htmlsingle/"
+    spring-framework-docs: "https://docs.spring.io/spring/docs/4.3.23.RELEASE/spring-framework-reference/htmlsingle/"
+    ax-initializr-url: "https://start.across.dev/"
+    url-AcrossHibernateModule: "https://across.dev/modules/AcrossHibernateModule"
+    url-PropertiesModule: "https://across.dev/modules/PropertiesModule"
+    url-AdminWebModule: "https://across.dev/modules/AdminWebModule"
+    url-ApplicationInfoModule: "https://across.dev/modules/ApplicationInfoModule"
+    url-BootstrapUiModule: "https://across.dev/modules/BootstrapUiModule"
+    url-DebugWebModule: "https://across.dev/modules/DebugWebModule"
+    url-EntityModule: "https://across.dev/modules/EntityModule"
+    url-OAuth2Module: "https://across.dev/modules/OAuth2Module"
+    url-SpringSecurityModule: "https://across.dev/modules/SpringSecurityModule"
+    url-SpringSecurityAclModule: "https://across.dev/modules/SpringSecurityAclModule"
+    url-UserModule: "https://across.dev/modules/UserModule"
+    url-WebCmsModule: "https://across.dev/modules/WebCmsModule"
+    url-FileManagerModule: "https://across.dev/modules/FileManagerModule"
     tabs: tabs
   extensions:
     - ./lib/tabs-block.js

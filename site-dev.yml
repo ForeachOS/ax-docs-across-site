@@ -4,104 +4,83 @@ site:
 content:
   sources:
   - url: https://github.com/ForeachOS/ax-docs-across.git
-    branches: [master]
+    branches: [master,develop,develop-*]
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-platform.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs/guides
   - url: https://github.com/ForeachOS/ax-docs-platform.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop-*]
     start_path: docs/migration
   - url: https://github.com/ForeachOS/ax-docs-dynamic-forms-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-admin-web-module.git
-    branches: [master]
-    tags: []
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-bootstrap-ui-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-entity-module.git
-    branches: [master]
+    branches: [master,develop]
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-ldap-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-spring-security-acl-module.git
-    branches: [master]
-    tags: []
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-web-cms-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-spring-security-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-oauth2-module.git
-    branches: [master]
-    tags: []
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-user-module.git
-    branches: [master]
-    tags: []
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-across-autoconfigure.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-debug-web-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-application-info-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-file-manager-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-logging-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-ehcache-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-properties-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-spring-mobile-module.git
-    branches: [master]
-    tags: "*"
+    branches: [master,develop,develop-*]
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-spring-batch-module.git
-    branches: [master]
-    tags: []
+    branches: [master,develop,develop-*]
     start_path: docs
 ui:
   bundle:
     url: ./ui-bundle.zip
-output:
-  destinations:
-  - provider: archive
-    path: build/docs-across-site.zip
+#output:
+#  destinations:
+#  - provider: archive
+#    path: build/docs-across-site.zip
 asciidoc:
   attributes:
     spring-boot-docs: "https://docs.spring.io/spring-boot/docs/1.5.20.RELEASE/reference/htmlsingle/"

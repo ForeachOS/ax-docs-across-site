@@ -1,7 +1,7 @@
 {
   "index_name": "antora-across-site-production",
   "start_urls": [
-    "https://across-docs.foreach.be/across-site/production/"
+    "https://docs.across.dev/across-site/production/"
   ],
   "stop_urls": [],
   "selectors": {

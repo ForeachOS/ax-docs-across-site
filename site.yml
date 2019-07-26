@@ -4,7 +4,7 @@ site:
 content:
   sources:
   - url: https://github.com/ForeachOS/ax-docs-across.git
-    branches: [master]
+    branches: [develop,master]
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-platform.git
@@ -28,7 +28,7 @@ content:
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-entity-module.git
-    branches: [master]
+    branches: [develop,master]
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-ldap-module.git

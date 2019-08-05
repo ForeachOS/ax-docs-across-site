@@ -20,11 +20,11 @@ content:
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-admin-web-module.git
-    branches: [master]
+    branches: [develop,master]
     tags: []
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-bootstrap-ui-module.git
-    branches: [master]
+    branches: [develop,master]
     tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-entity-module.git

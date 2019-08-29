@@ -21,7 +21,7 @@ content:
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-admin-web-module.git
     branches: [master,develop,develop-*]
-    tags: []
+    tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-bootstrap-ui-module.git
     branches: [master,develop,develop-*]

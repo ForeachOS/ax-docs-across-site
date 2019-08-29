@@ -1,6 +1,6 @@
 = Across Documentation Playbook
 
-This repository contains the https://antora.org[Antora playbook] for the https://across.foreach.be[Across site] documentation.
+This repository contains the https://antora.org[Antora playbook] for the https://across.dev[Across site] documentation.
 
 == Building the documentation site
 

@@ -65,3 +65,4 @@ typings/
 .DS_Store
 workspace
 build
+/docker/

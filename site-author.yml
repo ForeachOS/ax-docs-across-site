@@ -7,12 +7,12 @@ content:
   - url: ./workspace/ax-docs-across
     start_path: docs
     branches: HEAD
-#  - url: ./workspace/ax-docs-platform
-#    start_path: docs/guides
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-platform
-#    start_path: docs/migration
-#    branches: HEAD
+  - url: ./workspace/ax-docs-platform
+    start_path: docs/guides
+    branches: HEAD
+  - url: ./workspace/ax-docs-platform
+    start_path: docs/migration
+    branches: HEAD
   - url: ./workspace/ax-docs-dynamic-forms-module
     start_path: docs
     branches: HEAD

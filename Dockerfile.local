@@ -1,3 +1,3 @@
 FROM antora/antora:2.1.1
-RUN yarn add @antora/site-publisher
+RUN yarn add @antora/site-publisher@2.1.1
 ENV HOME /antora

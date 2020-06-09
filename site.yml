@@ -37,7 +37,7 @@ content:
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-spring-security-acl-module.git
     branches: [master,develop,develop-*]
-    tags: []
+    tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-web-cms-module.git
     branches: [master,develop,develop-*]
@@ -49,11 +49,11 @@ content:
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-oauth2-module.git
     branches: [master,develop,develop-*]
-    tags: []
+    tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-user-module.git
     branches: [master,develop,develop-*]
-    tags: []
+    tags: "*"
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-hibernate-jpa-module.git
     branches: [master,develop,develop-*]
@@ -93,7 +93,7 @@ content:
     start_path: docs
   - url: https://github.com/ForeachOS/ax-docs-spring-batch-module.git
     branches: [master,develop,develop-*]
-    tags: []
+    tags: "*"
     start_path: docs
 ui:
   bundle:

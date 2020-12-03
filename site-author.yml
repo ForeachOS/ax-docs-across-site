@@ -25,54 +25,54 @@ content:
   - url: ./workspace/ax-docs-entity-module
     start_path: docs
     branches: HEAD
-#  - url: ./workspace/ax-docs-ldap-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-spring-security-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-spring-security-acl-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-web-cms-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-user-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-hibernate-jpa-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-oauth2-module
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-across-autoconfigure
-#    start_path: docs
-#    branches: HEAD
-#  - url: ./workspace/ax-docs-debug-web-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-application-info-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-file-manager-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-logging-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-ehcache-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-properties-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-spring-mobile-module
-#    branches: HEAD
-#    start_path: docs
-#  - url: ./workspace/ax-docs-spring-batch-module
-#    branches: HEAD
-#    start_path: docs
+  - url: ./workspace/ax-docs-ldap-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-spring-security-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-spring-security-acl-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-web-cms-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-user-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-hibernate-jpa-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-oauth2-module
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-across-autoconfigure
+    start_path: docs
+    branches: HEAD
+  - url: ./workspace/ax-docs-debug-web-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-application-info-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-file-manager-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-logging-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-ehcache-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-properties-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-spring-mobile-module
+    branches: HEAD
+    start_path: docs
+  - url: ./workspace/ax-docs-spring-batch-module
+    branches: HEAD
+    start_path: docs
 ui:
   bundle:
 #    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
